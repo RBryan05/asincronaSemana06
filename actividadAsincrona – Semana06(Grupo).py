@@ -1,4 +1,5 @@
 # Actividad asincrona semana 6, codigo.
+
 # Suma: Sumar 3 variables distintas y asignar el valor a una cuarta variable.
 sumaNum1 = 35
 sumaNum2 = 19
@@ -17,3 +18,5 @@ resta = restaNum1 - restaNum2 - restaNum3 - restaNum4
 
 # concatenación con: f-string
 print(f"El resultado de la resta de {restaNum1} - {restaNum2} - {restaNum3} - {restaNum4} es igual a: {resta}")
+
+#Multiplicación: Multiplicar 2 variables asignarlas a otra variable y esa variable multiplicar por la segunda variable de suma y resta.
