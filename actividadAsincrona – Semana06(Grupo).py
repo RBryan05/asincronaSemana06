@@ -1,9 +1,18 @@
 # Actividad asincrona semana 6, codigo.
 
-# Suma: Sumar 3 variables distintas y asignar el valor a una cuarta variable.
+# Variables de suma.
 sumaNum1 = 35
-sumaNum2 = 19
+sumaNum2 = 8
 sumaNum3 = 29
+# Variables de resta.
+restaNum1 = 19
+restaNum2 = 10
+restaNum3 = 21
+restaNum4 = 11
+#Variables de multiplicación.
+
+# Operador aritmético SUMA: Sumar 3 variables distintas y asignar el valor a una cuarta variable.
+
 suma = sumaNum1 + sumaNum2 + sumaNum3 
 
 # concatenación con: f-string
