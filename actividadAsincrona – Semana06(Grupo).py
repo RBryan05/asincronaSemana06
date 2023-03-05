@@ -19,10 +19,7 @@ suma = sumaNum1 + sumaNum2 + sumaNum3
 print(f"El resultado de la suma de {sumaNum1} + {sumaNum2} + {sumaNum3} es igual a: {suma}")
 
 #Resta: Restar 4 variables siendo en la tercera variable más alta que la primera.
-restaNum1 = 30
-restaNum2 = 16
-restaNum3 = 34
-restaNum4 = 12
+
 resta = restaNum1 - restaNum2 - restaNum3 - restaNum4
 
 # concatenación con: f-string
