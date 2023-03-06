@@ -70,7 +70,6 @@ print("        ")
 
 #Dividir la variable resultado del exponente entre la variable resultado del módulo
 
-
 print("---------------------------------------------------------------------------")
 print("Operador aritmético: DIVISIÓN")
 division1 = exponente1 / modulo1
@@ -80,7 +79,6 @@ print(f"El resultado de la division de {exponente1} ** {modulo1} es igual a: {di
 print("        ")
 
 #Realizar la división entera de la división normal
-
 
 print("---------------------------------------------------------------------------")
 print("Operador aritmético: DIVISIÓN ENTERA")
